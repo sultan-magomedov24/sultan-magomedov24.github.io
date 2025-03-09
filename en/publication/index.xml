@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Публикации | My Site</title>
+    <link>https://sultan-magomedov24.github.io/en/publication/</link>
+      <atom:link href="https://sultan-magomedov24.github.io/en/publication/index.xml" rel="self" type="application/rss+xml" />
+    <description>Публикации</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 09 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://sultan-magomedov24.github.io/media/icon_hu_645fa481986063ef.png</url>
+      <title>Публикации</title>
+      <link>https://sultan-magomedov24.github.io/en/publication/</link>
+    </image>
+    
+    <item>
+      <title>Непрерывная интеграция и развертывание</title>
+      <link>https://sultan-magomedov24.github.io/en/publication/01/</link>
+      <pubDate>Sun, 09 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://sultan-magomedov24.github.io/en/publication/01/</guid>
+      <description>&lt;h2 id=&#34;непрерывная-интеграция-и-развертывание-зачем-это-нужно&#34;&gt;Непрерывная интеграция и развертывание: зачем это нужно?&lt;/h2&gt;
+&lt;h3 id=&#34;что-такое-cicd&#34;&gt;Что такое CI/CD?&lt;/h3&gt;
+&lt;p&gt;CI/CD (Continuous Integration / Continuous Deployment) – это практика разработки, включающая автоматическую интеграцию кода, тестирование и развертывание. Она состоит из двух частей:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;CI (Continuous Integration, непрерывная интеграция)&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Код объединяется в общий репозиторий несколько раз в день.&lt;/li&gt;
+&lt;li&gt;Автоматические тесты проверяют работоспособность.&lt;/li&gt;
+&lt;li&gt;Если тесты пройдены, код отправляется в основную ветку.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;CD (Continuous Deployment, непрерывное развертывание)&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;После успешного CI код автоматически разворачивается на серверах.&lt;/li&gt;
+&lt;li&gt;Это позволяет быстро выкатывать новые версии без ручного вмешательства.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;почему-это-важно&#34;&gt;Почему это важно?&lt;/h3&gt;
+&lt;p&gt;✅ &lt;strong&gt;Быстрая доставка фич&lt;/strong&gt; – меньше времени между разработкой и продакшеном.&lt;br&gt;
+✅ &lt;strong&gt;Меньше багов&lt;/strong&gt; – автоматическое тестирование выявляет ошибки заранее.&lt;br&gt;
+✅ &lt;strong&gt;Автоматизация&lt;/strong&gt; – снижает вероятность человеческих ошибок.&lt;br&gt;
+✅ &lt;strong&gt;Гибкость&lt;/strong&gt; – можно быстро исправлять проблемы и добавлять новые функции.&lt;/p&gt;
+&lt;h3 id=&#34;как-работает-cicd&#34;&gt;Как работает CI/CD?&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;Разработчик коммитит изменения в репозиторий.&lt;/li&gt;
+&lt;li&gt;CI-система автоматически запускает тесты.&lt;/li&gt;
+&lt;li&gt;Если тесты пройдены, код добавляется в основную ветку.&lt;/li&gt;
+&lt;li&gt;CD-система автоматически разворачивает приложение.&lt;/li&gt;
+&lt;li&gt;Мониторинг помогает отслеживать ошибки.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;итог&#34;&gt;Итог&lt;/h3&gt;
+&lt;p&gt;CI/CD – это мощный инструмент, который делает разработку более быстрой и надежной. Внедрение CI/CD требует настройки, но в долгосрочной перспективе это значительно ускоряет релизы и снижает риски.&lt;/p&gt;
+&lt;p&gt;Как ты относишься к автоматизации в разработке? Делись мыслями в комментариях!&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
