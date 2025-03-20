@@ -5,12 +5,28 @@
     <link>https://sultan-magomedov24.github.io/post/</link>
       <atom:link href="https://sultan-magomedov24.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Blog</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Sun, 09 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Thu, 20 Mar 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://sultan-magomedov24.github.io/media/icon_hu_645fa481986063ef.png</url>
       <title>Blog</title>
       <link>https://sultan-magomedov24.github.io/post/</link>
     </image>
+    
+    <item>
+      <title>Моя неделя</title>
+      <link>https://sultan-magomedov24.github.io/post/02/</link>
+      <pubDate>Thu, 20 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://sultan-magomedov24.github.io/post/02/</guid>
+      <description>&lt;h1 id=&#34;-итоги-учебной-недели&#34;&gt;🚀 Итоги учебной недели&lt;/h1&gt;
+&lt;p&gt;На этой неделе было много интересных занятий:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;🔹 Разбирались с алгоритмами и структурами данных, особенно с деревьями и графами.&lt;/li&gt;
+&lt;li&gt;🔹 Учились работать с Markdown, это оказалось намного проще, чем я думал.&lt;/li&gt;
+&lt;li&gt;🔹 Решали задачи по программированию, практиковались в языке Python и C++.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Неделя была насыщенная, впереди еще много интересного! 📚🔥&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Моя неделя</title>
