@@ -5,7 +5,7 @@
     <link>https://sultan-magomedov24.github.io/tags/wowchemy/</link>
       <atom:link href="https://sultan-magomedov24.github.io/tags/wowchemy/index.xml" rel="self" type="application/rss+xml" />
     <description>Wowchemy</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Thu, 26 Oct 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Sun, 13 Apr 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://sultan-magomedov24.github.io/media/icon_hu_645fa481986063ef.png</url>
       <title>Wowchemy</title>
@@ -13,27 +13,39 @@
     </image>
     
     <item>
-      <title>Pandas</title>
-      <link>https://sultan-magomedov24.github.io/project/pandas/</link>
-      <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://sultan-magomedov24.github.io/project/pandas/</guid>
-      <description>&lt;p&gt;Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>PyTorch</title>
-      <link>https://sultan-magomedov24.github.io/project/pytorch/</link>
-      <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://sultan-magomedov24.github.io/project/pytorch/</guid>
-      <description>&lt;p&gt;PyTorch is a Python package that provides tensor computation (like NumPy) with strong GPU acceleration.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>scikit-learn</title>
-      <link>https://sultan-magomedov24.github.io/project/scikit/</link>
-      <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://sultan-magomedov24.github.io/project/scikit/</guid>
-      <description>&lt;p&gt;scikit-learn is a Python module for machine learning built on top of SciPy and is distributed under the 3-Clause BSD license.&lt;/p&gt;</description>
+      <title>Личный сайт научного работника на Hugo Academic: зачем и как</title>
+      <link>https://sultan-magomedov24.github.io/project/hugo/</link>
+      <pubDate>Sun, 13 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://sultan-magomedov24.github.io/project/hugo/</guid>
+      <description>&lt;p&gt;Сегодня у каждого, кто занимается наукой всерьёз, есть нечто важнее визитки — &lt;strong&gt;персональный сайт&lt;/strong&gt;. Это не просто модный атрибут, а рабочий инструмент. Он помогает собрать всё важное в одном месте, быть доступным для коллег и показать миру свою работу. И тут отлично заходит &lt;strong&gt;Hugo Academic&lt;/strong&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;что-такое-hugo-academic&#34;&gt;Что такое Hugo Academic?&lt;/h2&gt;
+&lt;p&gt;Это тема для статического сайта на движке Hugo. Звучит немного технически, но на деле всё просто: вы получаете современный, быстрый и гибкий сайт, который можно адаптировать под себя. Academic изначально заточен под нужды исследователей, преподавателей, аспирантов. В нём уже есть всё необходимое: разделы для публикаций, биографии, проектов, курсов, блога и даже интеграции с научными сервисами.&lt;/p&gt;
+&lt;h2 id=&#34;зачем-вообще-всё-это-нужно&#34;&gt;Зачем вообще всё это нужно?&lt;/h2&gt;
+&lt;p&gt;Можно, конечно, жить без сайта. Но если вы хотите:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;структурировать свои научные материалы;&lt;/li&gt;
+&lt;li&gt;сделать свои работы доступными не только через научные журналы;&lt;/li&gt;
+&lt;li&gt;рассказать о проектах и идеях;&lt;/li&gt;
+&lt;li&gt;вести блог или делиться методическими наработками;&lt;/li&gt;
+&lt;li&gt;быть видимым в поиске по имени и теме&amp;hellip;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&amp;hellip;тогда сайт — это ваш цифровой дом. А Hugo Academic — способ обустроить его красиво и функционально.&lt;/p&gt;
+&lt;h2 id=&#34;что-можно-разместить&#34;&gt;Что можно разместить?&lt;/h2&gt;
+&lt;p&gt;Вы сами выбираете, но обычно сайт включает:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;краткую профессиональную биографию;&lt;/li&gt;
+&lt;li&gt;список публикаций с удобной навигацией;&lt;/li&gt;
+&lt;li&gt;карточки проектов и научных инициатив;&lt;/li&gt;
+&lt;li&gt;курсы, лекции, методички;&lt;/li&gt;
+&lt;li&gt;ленту новостей или блог;&lt;/li&gt;
+&lt;li&gt;контакты, соцсети и ссылки на профили вроде ORCID, Scopus и т.д.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Всё это собирается в аккуратный, логичный интерфейс, который не стыдно показать ни коллеге, ни студенту, ни потенциальному партнёру.&lt;/p&gt;
+&lt;h2 id=&#34;почему-это-удобно&#34;&gt;Почему это удобно?&lt;/h2&gt;
+&lt;p&gt;Hugo Academic — это не просто шаблон. Это способ избавиться от лишнего и сосредоточиться на сути. Вы редактируете сайт через обычные текстовые файлы, а итог — аккуратный HTML, который быстро загружается и легко поддерживается. При этом не нужен сервер, всё работает на статике и может быть размещено бесплатно.&lt;/p&gt;
+&lt;h2 id=&#34;финальное-слово&#34;&gt;Финальное слово&lt;/h2&gt;
+&lt;p&gt;Создание своего сайта — это инвестиция в профессиональный имидж. Hugo Academic делает этот шаг доступным: без лишней возни, с понятной структурой и фокусом на науку. Если вы ещё не сделали себе сайт — возможно, сейчас самое время.&lt;/p&gt;
+</description>
     </item>
     
   </channel>
